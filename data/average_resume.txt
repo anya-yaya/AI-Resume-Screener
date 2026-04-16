@@ -1,0 +1,13 @@
+Name: Priya Verma
+
+Experience:
+1.5 years as a Data Analyst.
+
+Skills:
+Python, SQL, Data Analysis
+
+Tools:
+Pandas, NumPy
+
+Projects:
+Worked on data visualization and reporting dashboards.

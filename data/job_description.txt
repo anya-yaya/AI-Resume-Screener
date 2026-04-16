@@ -1,0 +1,23 @@
+Job Role: Data Scientist
+
+We are looking for a Data Scientist with strong analytical and machine learning skills.
+
+Required Skills:
+- Python
+- Machine Learning
+- SQL
+- Data Analysis
+- Statistics
+
+Preferred Skills:
+- NLP
+- Deep Learning
+
+Tools & Technologies:
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow or PyTorch
+
+Experience:
+- Minimum 2 years of experience in data science or related field

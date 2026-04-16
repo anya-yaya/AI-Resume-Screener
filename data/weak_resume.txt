@@ -1,0 +1,13 @@
+Name: Arjun Kumar
+
+Experience:
+Fresher
+
+Skills:
+HTML, CSS, JavaScript
+
+Tools:
+Bootstrap
+
+Projects:
+Developed basic websites using HTML and CSS.

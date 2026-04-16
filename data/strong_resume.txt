@@ -1,0 +1,13 @@
+Name: Rahul Sharma
+
+Experience:
+15 years of experience as a Data Scientist.
+
+Skills:
+Python, Machine Learning, SQL, Data Analysis, Statistics, NLP
+
+Tools:
+Pandas, NumPy, Scikit-learn, TensorFlow
+
+Projects:
+Built NLP models for sentiment analysis and recommendation systems.
